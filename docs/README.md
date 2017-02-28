@@ -28,7 +28,7 @@ In addition, this project will include:
 
 This app will consist of a single screen with the game screen in the middle, game controls, and nav links to the Github, LinkedIn, and the About modal. Game controls will include Start, Stop, and Reset buttons. The footer will contain creator's name and email.
 
-![wireframes](/wireframe.png)
+![wireframe](https://github.com/zama1024/Crazy-Cabbie/blob/master/docs/wireframe.png)
 
 ### Architecture and Technologies
 
